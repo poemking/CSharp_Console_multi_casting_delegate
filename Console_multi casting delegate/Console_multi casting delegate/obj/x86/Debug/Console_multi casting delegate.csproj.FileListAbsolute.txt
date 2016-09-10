@@ -1,0 +1,4 @@
+D:\Ptactice\Console_multi casting delegate\Console_multi casting delegate\bin\Debug\Console_multi casting delegate.exe
+D:\Ptactice\Console_multi casting delegate\Console_multi casting delegate\bin\Debug\Console_multi casting delegate.pdb
+D:\Ptactice\Console_multi casting delegate\Console_multi casting delegate\obj\x86\Debug\Console_multi casting delegate.exe
+D:\Ptactice\Console_multi casting delegate\Console_multi casting delegate\obj\x86\Debug\Console_multi casting delegate.pdb
